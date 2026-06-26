@@ -43,6 +43,8 @@ Then start the app:
 node serve-local.mjs
 ```
 
+On Windows, you can also double-click [start-local.bat](start-local.bat).
+
 Open [http://localhost:8787](http://localhost:8787). Keep the terminal open while using the app. Stop the server with `Ctrl+C`.
 
 ## Optional: Ollama Prompt Enhancement
