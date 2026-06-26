@@ -4,6 +4,10 @@ A dependency-free prompt builder for cinematic still images. It combines subject
 
 The full local app supports optional Ollama-based prompt refinement. The public GitHub Pages site deliberately excludes Ollama controls and makes no calls to a local model server.
 
+## Live Demo
+
+[Open the GitHub Pages version](https://sh4d0wbu7n.github.io/cinematic-prompt-builder/)
+
 ## Features
 
 - Prompt profiles for Nano Banana Pro, Qwen Image 2512, Krea 2, Z-Image Turbo, ERNIE Image, Boogu Image, and GPT Image 2.
